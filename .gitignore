@@ -1,0 +1,8 @@
+/.project
+/.settings/
+/.idea
+/*.iml
+/deploy
+/target
+/build/
+**/*.iml

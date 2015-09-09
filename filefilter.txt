@@ -1,0 +1,9 @@
+# Please modify following 
+# The included/excluded paths are applied sequentially from up to down
+# + included_path_patterns
+# - excluded_path_patterns
+* default
+- \com\navercorp\pinpoint\thrift\dto
+- \com\navercorp\pinpoint\common\util\apache
+- \com\navercorp\pinpoint\profiler\util\jdk
+- \com\navercorp\pinpoint\bootstrap\util\spring

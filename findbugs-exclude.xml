@@ -1,0 +1,5 @@
+<FindBugsFilter>
+    <Match>
+        <Package name="~com.baidu.oped.apm.thrift.dto.*" />
+    </Match>
+</FindBugsFilter>
