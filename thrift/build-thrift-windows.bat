@@ -1,4 +1,4 @@
-mvn generate-sources -P with-thrift -Dmaven.test.skip -Dthrift.executable.path=./src/compiler/windows/thrift-0.9.2
+mvn generate-sources -P windows -DskipTests
 
 rc=$?
 if [[ $rc != 0 ]] ; then
